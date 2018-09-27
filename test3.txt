@@ -1,0 +1,6 @@
+This is a third test file. This will have more lines, more odd characters, and
+more concurrent white spaces to test
+
+the validity of the word counter...
+
+word&     word2^      word 3*J...   .

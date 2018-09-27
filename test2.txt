@@ -1,0 +1,6 @@
+This is another test file. 
+This test file will have more lines than the first
+
+This test file will also have other characters such as the ones below
+
+[] $ ^ * ^ ...
